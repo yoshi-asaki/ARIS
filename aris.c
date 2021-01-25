@@ -8,6 +8,9 @@
 #include <astrotools.h>
 #include <unistd.h>
 #include <aris.h>
+/**
+# test
+**/
 
 /****
 #define __DEMO__
